@@ -1,0 +1,11 @@
+# Build directories
+/build/
+__pycache__/
+*.pyc
+
+# Virtual environment
+/venv/
+
+# IDE specific
+.vscode/
+.idea/
